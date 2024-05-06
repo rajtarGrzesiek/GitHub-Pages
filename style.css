@@ -10,3 +10,8 @@ body {
 	font-family: "Ubuntu", sans-serif;
 	overflow: hidden;
 }
+
+h1 {
+	justify-content: center;
+	margin-top: 50px;
+}
